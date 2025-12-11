@@ -15,9 +15,9 @@
 <div class="fixed top-0 w-full z-50 flex flex-col font-sans">
   <!-- Top Banner -->
   <div class="bg-[#F3F4F6] border-b border-gray-200 py-2 px-4 text-center text-[10px] sm:text-xs font-medium tracking-wide text-gray-900">
-    <span class="mr-1">AI-First SEO: 2024 Playbook with Kevin Indig & Sam Smith on Dec 11</span>
+    <span class="mr-1">New Report: How Leading Brands Win Visibility in AI Answer Engines</span>
     <a href="#" class="inline-flex items-center hover:underline font-bold ml-1">
-      SAVE YOUR SPOT 
+      GET THE REPORT 
       <svg class="w-3 h-3 ml-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
     </a>
   </div>
@@ -27,8 +27,11 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
       <!-- Logo -->
       <div class="flex items-center">
-        <a href="/" class="text-3xl font-serif-display font-bold tracking-tighter text-gray-900 flex items-center gap-1">
-          airops
+        <a href="/" class="flex items-center gap-2">
+          <svg width="32" height="32" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0.541504 80V63.1322L63.6737 0H80.5415V17.29L17.8315 80H0.541504ZM0.541504 0H31.034L0.541504 30.4925V0ZM50.4712 80H80.5415V49.9297L50.4712 80Z" fill="black"/>
+          </svg>
+          <span class="text-2xl font-serif-display font-bold tracking-tight text-gray-900">Oars</span>
         </a>
         
         <!-- Desktop Links -->
@@ -43,8 +46,8 @@
       <!-- Right Actions -->
       <div class="flex items-center space-x-4 sm:space-x-6">
         <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-gray-900">Log In</a>
-        <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-gray-900">Start Free Trial</a>
-        <a href="#" class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-full text-gray-900 bg-brand-green hover:bg-brand-green-hover transition-colors shadow-sm">
+        <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-gray-900">Get Visibility Audit</a>
+        <a href="#" class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-full text-white bg-gray-900 hover:bg-gray-800 transition-colors shadow-sm">
           Book a Demo
           <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
         </a>

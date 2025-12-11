@@ -12,26 +12,26 @@
         
         <!-- Headline -->
         <h1 class="text-5xl md:text-7xl lg:text-8xl font-serif-display text-gray-900 leading-[1.1] tracking-tight mb-6 max-w-5xl mx-auto">
-            Craft content <br class="hidden md:block" />
-            that wins 
+            Win visibility in <br class="hidden md:block" />
+            AI answer 
             <span class="inline-flex items-center align-middle mx-1 md:mx-2 relative -top-1 md:-top-2">
-                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 text-[#2A9D8F] animate-spin-slow" fill="currentColor">
+                <svg width="60" height="60" viewBox="0 0 100 100" class="w-10 h-10 md:w-16 md:h-16 animate-spin-slow" fill="currentColor" style="color: oklch(0.769 0.188 70.08);">
                     <!-- Stylized Asterisk/Flower -->
                     <path d="M50 0 L60 35 L95 25 L70 50 L95 75 L60 65 L50 100 L40 65 L5 75 L30 50 L5 25 L40 35 Z" />
                 </svg>
             </span>
-            search
+            engines
         </h1>
 
         <!-- Subheadline -->
         <p class="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
-            AirOps powers your content strategy, creation, and performance, helping your brand get seen, cited, and celebrated.
+            Oars optimizes your brand's visibility in AI-powered search through strategic content positioning and semantic optimization.
         </p>
 
         <!-- CTA -->
         <div class="mb-16">
-            <a href="#" class="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-medium rounded-full text-gray-900 bg-brand-green hover:bg-brand-green-hover transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-                Book a Demo
+            <a href="#" class="inline-flex items-center justify-center px-8 py-4 border border-transparent text-base font-medium rounded-full text-white bg-gray-900 hover:bg-gray-800 transition-all shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
+                Get Your Visibility Audit
                 <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
             </a>
         </div>
@@ -52,16 +52,16 @@
                     </svg>
                 </div>
 
-                <!-- Error Message Text (Recreating the screenshot detail) -->
-                <h3 class="text-white text-xl md:text-2xl font-medium mb-2">We couldn't verify the security of your connection.</h3>
+                <!-- Demo Message -->
+                <h3 class="text-white text-xl md:text-2xl font-medium mb-2">See how brands optimize for AI answer engines</h3>
                 <p class="text-gray-400 text-sm md:text-base max-w-lg">
-                    Access to this content has been restricted. Contact your internet service provider for help.
+                    Watch a 2-minute overview of answer engine optimization in action
                 </p>
             </div>
             
             <!-- Progress Bar (Fake) -->
             <div class="absolute bottom-0 left-0 right-0 h-1 bg-gray-800">
-                <div class="h-full w-1/3 bg-brand-green"></div>
+                <div class="h-full w-1/3" style="background-color: oklch(0.769 0.188 70.08);"></div>
             </div>
         </div>
     </div>

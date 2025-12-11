@@ -1,17 +1,17 @@
 <section class="py-24 bg-white font-sans">
     <div class="max-w-7xl mx-auto px-4 text-center mb-16">
          <span class="text-[10px] font-bold text-gray-500 uppercase tracking-widest border border-gray-200 px-3 py-1.5 rounded-full bg-gray-50">Platform Features</span>
-         <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Turn your strategy into <br/> content that wins</h2>
-         <p class="mt-6 text-gray-600 max-w-2xl mx-auto">A suite of tools to help you go from surface-level to deep research, continuous and ready-to-rank content that drives performance.</p>
+         <h2 class="mt-8 text-5xl md:text-6xl font-serif-display text-gray-900">Everything you need to <br/> win in AI search</h2>
+         <p class="mt-6 text-gray-600 max-w-2xl mx-auto">A complete platform for tracking, analyzing, and optimizing your brand's visibility across all major AI answer engines.</p>
     </div>
     
     <div class="max-w-6xl mx-auto px-4 border border-gray-200 bg-gray-50">
         <!-- Row 1 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-b border-r border-gray-200 bg-[#FFF0F5]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">SEO</span>
-                <h3 class="text-3xl font-serif-display mb-4">Collaborate and orchestrate your way to winning content</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Manage every article, workflow, and update from one powerful interface designed for team collaboration at scale.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">VISIBILITY TRACKING</span>
+                <h3 class="text-3xl font-serif-display mb-4">Monitor your brand across all AI answer engines</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Track citations, rankings, and visibility metrics across ChatGPT, Perplexity, Google AI Overviews, and more from one unified dashboard.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 border-b border-gray-200 bg-white flex items-center justify-center overflow-hidden">
@@ -99,9 +99,9 @@
                 </div>
             </div>
             <div class="p-12 border-b border-gray-200 bg-[#FFF5EB]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Workflows</span>
-                <h3 class="text-3xl font-serif-display mb-4">Workflows built on your brand foundations</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Build precision content workflows that turn your big ideas into impactful reality. With data like data sources, brand-specific knowledge bases and Human Review steps.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">SEMANTIC ANALYSIS</span>
+                <h3 class="text-3xl font-serif-display mb-4">Understand how AI engines interpret your content</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get deep insights into semantic relationships, entity recognition, and topical authority that determine whether AI cites your brand.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </div>
@@ -109,9 +109,9 @@
         <!-- Row 3 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-b border-r border-gray-200 bg-[#E6FFFA]">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Free Assets</span>
-                <h3 class="text-3xl font-serif-display mb-4">Magic building blocks built by our team</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get started right away with pre-built blocks that handle common tasks like SERP analysis, outline generation, and fact-checking. Turn your best methods into reusable assets.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">COMPETITOR INTEL</span>
+                <h3 class="text-3xl font-serif-display mb-4">See exactly what your competitors are doing</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Benchmark your visibility against competitors. Identify which brands are winning citations and reverse-engineer their optimization strategies.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 border-b border-gray-200 bg-white flex items-center justify-center overflow-hidden">
@@ -185,9 +185,9 @@
                  </div>
             </div>
             <div class="p-12 border-b border-gray-200 bg-[#FEFCBF]/30">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Brand Voice</span>
-                <h3 class="text-3xl font-serif-display mb-4">Govern your brand's voice as a team</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Protect your tone, rules, references, and content at all times—giving the team the confidence to create content that feels true to the brand every time.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">OPTIMIZATION PLAYBOOKS</span>
+                <h3 class="text-3xl font-serif-display mb-4">Get actionable recommendations that work</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Receive specific, prioritized optimization strategies based on your visibility data. Know exactly what to change and why it matters.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </div>
@@ -195,9 +195,9 @@
         <!-- Row 5 -->
         <div class="grid md:grid-cols-2">
             <div class="p-12 border-r border-gray-200 bg-[#E9D8FD]/30">
-                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">Integrations</span>
-                <h3 class="text-3xl font-serif-display mb-4">Connect your stack for richer context (and less friction)</h3>
-                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Plug AirOps into your stack. Connect data sources, destinations, and tools seamlessly into your CMS. No more handoffs required.</p>
+                <span class="text-[10px] font-bold uppercase tracking-widest border border-gray-200 bg-white px-2 py-1 rounded mb-6 inline-block">REPORTING & ALERTS</span>
+                <h3 class="text-3xl font-serif-display mb-4">Stay informed with automated insights</h3>
+                <p class="text-gray-600 mb-8 text-sm leading-relaxed">Get weekly visibility reports, instant alerts when competitors gain ground, and executive dashboards that show ROI at a glance.</p>
                 <a href="#" class="text-xs font-bold flex items-center hover:underline">Learn More <svg class="w-3 h-3 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
             <div class="p-12 bg-white flex items-center justify-center">
